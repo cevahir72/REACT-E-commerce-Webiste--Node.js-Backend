@@ -1,0 +1,20 @@
+{
+  "name": "react-e-commerce-webiste--node.js-backend",
+  "version": "1.0.0",
+  "description": "REACT-E-commerce-Webiste -Node.js Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevahir72/REACT-E-commerce-Webiste--Node.js-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cevahir72/REACT-E-commerce-Webiste--Node.js-Backend/issues"
+  },
+  "homepage": "https://github.com/cevahir72/REACT-E-commerce-Webiste--Node.js-Backend#readme"
+}
